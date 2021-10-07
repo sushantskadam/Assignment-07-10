@@ -1,0 +1,68 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "ename": "A",
+      "age": 23,
+      "city": "Noida",
+      "gender": "Male",
+      "salary": 55678
+    },
+    {
+      "id": 2,
+      "ename": "B",
+      "age": 26,
+      "city": "Mumbai",
+      "gender": "Female",
+      "salary": 43338
+    },
+    {
+      "id": 3,
+      "ename": "C",
+      "age": 24,
+      "city": "Delhi",
+      "gender": "Male",
+      "salary": 45855
+    },
+    {
+      "id": 4,
+      "ename": "D",
+      "age": 28,
+      "city": "Surat",
+      "gender": "Female",
+      "salary": 30678
+    },
+    {
+      "id": 5,
+      "ename": "E",
+      "age": 20,
+      "city": "Indore",
+      "gender": "Male",
+      "salary": 50678
+    },
+    {
+      "ename": "Sushant Kadam",
+      "age": "23",
+      "city": "Badlapur",
+      "gender": "Male",
+      "salary": "2000",
+      "id": 6
+    },
+    {
+      "ename": "Sushant Kadam",
+      "age": "23",
+      "city": "Badlapur",
+      "gender": "Male",
+      "salary": "2000",
+      "id": 7
+    },
+    {
+      "ename": "Xyx",
+      "age": "45",
+      "city": "Thane",
+      "gender": "male",
+      "salary": "9999",
+      "id": 8
+    }
+  ]
+}
